@@ -1,0 +1,54 @@
+Shenanigans Pool
+
+A collaborative effort by the NAA Systems Development Team
+
+Shenanigans is a way to incorporate a better abdominal workout into a game of pool by increasing the amount of laughter involved. It may, by a similar token, be a way to cause damage to pool cues, windows, and nearby furniture. This is not recommended.
+
+As a game designed largely by process of hilarity and documented by a crazy person, Shenanigans has several variants. All of these, however, revolve around the idea of imposing extra handicaps or restrictions on the shooting player, and penalties or consequences should those restrictions be violated. See appendix A for the list of handicaps, and appendix B for the list of penalties. The handicaps are each associated with a value of playing card and referred to by that card, and having a deck of cards to help keep track of them is recommended, although slips of paper with the restrictions written on them work just as well for some variants.
+
+Obviously, not all handicaps are created equal. For example, being required to use the bridge on every shot makes your game more difficult, but it is a very unlikely restriction to violate by accident. If jokers are used, one or two players might get no handicap at all. In a sequential game like 9-ball, handicap 2 is also no additional restriction. Handicap 8 is extremely tough if playing a variant in which handicaps are kept throughout the game, but insignificant if handicaps are only applied one shot at a time.
+
+We've come up with a couple of variants so far, but the game is still in beta. More suggestions are welcomed. More handicaps and penalties are welcomed too, for that matter, although to keep the useful mapping of handicaps to playing cards, we will probably stick to a total of 13 official handicaps (plus the joker) unless we get to a total of 26 and break 'em up by color.
+
+Variant 1: The Original
+
+To match the very first games of Shenanigans played, the available handicaps may be restricted to 1, 2, 4, 5, 6, 7, 8 (all from a single suit), and 14. For the first 20 minutes of the game, all handicaps use penalties 1 and 2. For the next 20 minutes, all handicaps use penalty 1. After that, handicaps are dropped from the game.
+
+Before the game begins, each player (not team) draws one handicap without replacement, and keeps it for the entire game. 
+
+Variant 2: 
+
+Before the game begins, agree on how penalties are to be handled, shuffle a deck of cards, and deal each team a hand of 5 cards. Before each turn, any opponent may play one card on the shooting team to impose that card's restriction on them. The shooter may negate the restriction by playing either the same card, a joker, or in a sequential game such as 9-ball, a 2. Cards played are placed on the bottom of the deck. Whenever a shooter sinks a ball legally (including satisfying any current restrictions), if the shooter's team has fewer than five cards in hand, that team draws a new card. If that team has five cards in hand, they may choose to place one on the bottom of the deck and draw a new one to replace it.
+
+In this variant, an ace should allow or force the use of the bridge based on the choice of the team playing it, rather than on whether the shooter is Briana.
+
+This variant allows for many sub-variants: jokers could be removed from the deck; penalties might depend on the suit of the card played; handicaps might be applied per shot instead of per turn; in a game with more than two teams, either each team might only be able to play cards against the team shooting immediately before them (or after), or handicaps might be allowed to stack if multiple opposing teams choose to play cards simultaneously; the actual winner of the game might be the team that finishes with the better poker hand. Get creative.
+Appendix A: The Handicaps 
+(1 = Ace, 11 = Jack, 12 = Queen, 13 = King, 14 = Joker)
+
+Variant 3:
+Before each turn, the shooting team draws the top card from the deck. That handicap and penalty applies for the rest of their turn. No one penalty may be triggered more than once on the same turn. If the handicap requires the shooter to make a choice, that choice is made once and applies for the entire turn. If the handicap requires an opponent to make a choice or take action, the shooting team chooses the opponent and the opponent makes the choice or takes the action for each individual shot.
+
+Again, this variant allows lots of customization. One possibility would be to say that no additional penalty can be applied on a shot that would result in the end of your turn anyway. Another would be to say that any shot that wins the game, but violates your handicap and leaves any balls still on the table, means that the other teams have the opportunity to try to run the table and you don't win until your turn would come around again. Another would be to say that in a cutthroat game, whenever any team is out of the game, one or more penalty possibilities are changed to "All currently eliminated teams get to spot one ball and return to the game."
+
+1. Your shot must be made using your non-dominant hand.
+2. The first object ball contacted must be the lowest numbered object ball remaining. In a cutthroat game, the first object ball contacted must be from your own group instead.
+3. Unless only one ball besides the cue ball remains on the table, your shot must move at least two balls other than the cue ball.
+4. Unless only one object ball remains on the table, your shot must move at least two object balls.
+5. Unless only one object ball remains on the table, you may not sink the first object ball contacted.
+6. The cue ball must contact a cushion after it has hit an object ball.
+7. The cue ball must contact a cushion before it hits an object ball.
+8. Choose one pocket. You may not sink any ball in any pocket except that one. 
+9. Before your shot, choose an opponent. That opponent places an obstacle of approximately  the diameter of a billiard ball on the table (a Gatorade bottle is recommended). Your shot may not cause any ball to come in contact with that obstacle. The obstacle must be placed at least six inches from the cue ball and at least a ball width from all object balls.
+9a. Draw another card. If you get at least two shots this turn and do not violate the handicap designated by that card, you get to keep that card, and may at any time during the rest of the game replace the shooting team's card with it, at which time it is returned to the bottom of the deck. (This is a proposed alternate rule when the obstacle rule is not desired.)
+10. Before your shot, choose an opponent. That opponent chooses a pocket. You may not sink any ball in that pocket.
+11. As long as you have an object ball that is not in the same quadrant of the pool table as the cue ball, the first object ball contacted may not be in the same quadrant where the cue ball started.
+12. If your shot moves more than one ball besides the cue ball, all balls moved besides the cue ball must be sunk.
+13. The cue ball may not contact a cushion.
+14. You have no handicap or restriction. Congratulations!
+
+Appendix B
+1. Your turn ends.
+2. Any balls sunk in violation of your handicap are spotted.
+3. Next player has ball in hand.
+4. You skip your next turn.
